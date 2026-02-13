@@ -4,7 +4,7 @@
  * Datum: 05.04.2010
  * Datei: Egg.java
  */
-package TP08.Solutions.Easter;
+package TravauxPratiques.TP08.Solutions.Easter;
 
 abstract public class Egg {
 	protected float weight;

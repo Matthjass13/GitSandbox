@@ -1,4 +1,4 @@
-package TP02.Solutions.occurence; /**
+package TravauxPratiques.TP02.Solutions.occurence; /**
  * PW Week 2
  * Exercise W2Q3 � 3
  * 

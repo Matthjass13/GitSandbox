@@ -1,4 +1,4 @@
-package TP02.Solutions.newsPaper;
+package TravauxPratiques.TP02.Solutions.newsPaper;
 
 /**
  * PW Week 2

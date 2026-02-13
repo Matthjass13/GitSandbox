@@ -1,4 +1,4 @@
-package TP04.Exercices.W4Q31.W4Q31_component;
+package TravauxPratiques.TP04.Exercices.W4Q31.W4Q31_component;
 
 /**
  * Exercise W4Q3 � 1

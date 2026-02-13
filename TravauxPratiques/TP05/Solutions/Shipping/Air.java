@@ -1,4 +1,4 @@
-package TP05.Solutions.Shipping;
+package TravauxPratiques.TP05.Solutions.Shipping;
 
 /**
  * TP Week 5

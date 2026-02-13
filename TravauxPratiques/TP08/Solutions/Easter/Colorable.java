@@ -4,7 +4,7 @@
  * Datum: 05.04.2010
  * Datei: Colorable.java
  */
-package TP08.Solutions.Easter;
+package TravauxPratiques.TP08.Solutions.Easter;
 
 public interface Colorable {
 	enum Colours {

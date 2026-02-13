@@ -4,7 +4,7 @@
  * Datum: 05.04.2010
  * Datei: EasterEgg.java
  */
-package TP08.Solutions.Easter;
+package TravauxPratiques.TP08.Solutions.Easter;
 
 public class EasterEgg extends HensEgg implements Hideable, Colorable {
 

@@ -1,4 +1,7 @@
-package TP05.Solutions.Shipping;
+package TravauxPratiques.TP05.Solutions.Shipping;
+
+import org.junit.jupiter.api.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * TP Week 5

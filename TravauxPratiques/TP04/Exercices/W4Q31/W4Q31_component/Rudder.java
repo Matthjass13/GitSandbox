@@ -1,4 +1,7 @@
-package TP04.Exercices.W4Q31.W4Q31_component;
+package TravauxPratiques.TP04.Exercices.W4Q31.W4Q31_component;
+
+import TravauxPratiques.TP04.Solutions.W4Q31.Boat;
+import TravauxPratiques.TP04.Solutions.W4Q31.Sailboat;
 
 /**
  * Exercise W4Q3 � 1

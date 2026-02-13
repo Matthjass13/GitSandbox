@@ -1,4 +1,6 @@
-package TP04.Exercices.W4Q31;
+package TravauxPratiques.TP04.Exercices.W4Q31;
+
+import TravauxPratiques.TP04.Solutions.W4Q31.*;
 
 /**
  * Exercise W4Q3 � 1

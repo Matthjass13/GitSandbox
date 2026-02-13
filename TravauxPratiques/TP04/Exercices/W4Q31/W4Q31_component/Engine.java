@@ -1,4 +1,8 @@
-package TP04.Exercices.W4Q31.W4Q31_component;
+package TravauxPratiques.TP04.Exercices.W4Q31.W4Q31_component;
+
+import TravauxPratiques.TP04.Solutions.W4Q31.Car;
+import TravauxPratiques.TP04.Solutions.W4Q31.Motorcycle;
+import TravauxPratiques.TP04.Solutions.W4Q31.Truck;
 
 /**
  * Exercise W4Q3 � 1

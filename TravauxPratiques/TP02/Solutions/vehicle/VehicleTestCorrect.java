@@ -1,4 +1,4 @@
-package TP02.Solutions.vehicle;
+package TravauxPratiques.TP02.Solutions.vehicle;
 public class VehicleTestCorrect {
 	
 	public static void main(String args[]) {

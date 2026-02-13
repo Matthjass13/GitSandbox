@@ -1,4 +1,4 @@
-package TP1.Solutions;
+package TravauxPratiques.TP1.Solutions;
 
 /**
 * Practical Work Week 1

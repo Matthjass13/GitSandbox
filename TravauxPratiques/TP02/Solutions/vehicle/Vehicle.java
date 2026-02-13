@@ -1,4 +1,4 @@
-package TP02.Solutions.vehicle;
+package TravauxPratiques.TP02.Solutions.vehicle;
 /*
  * Practical Work Week 2 - reading and understanding code
  * - Explain the difference between line 11 and 13.

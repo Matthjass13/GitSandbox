@@ -1,4 +1,4 @@
-package TP07.Solutions.shape;
+package TravauxPratiques.TP07.Solutions.shape;
 
 /**
  * TP Week 7

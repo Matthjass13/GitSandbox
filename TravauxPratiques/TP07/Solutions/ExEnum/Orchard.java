@@ -1,4 +1,4 @@
-package TP07.Solutions.ExEnum;
+package TravauxPratiques.TP07.Solutions.ExEnum;
 /**
  * TP Week 5
  * Exercise W5Q3 1

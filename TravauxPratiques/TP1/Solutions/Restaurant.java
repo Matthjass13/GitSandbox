@@ -1,4 +1,7 @@
-package TP1.Solutions; /**
+package TravauxPratiques.TP1.Solutions;
+
+
+/**
 * Practical Work Week 1
 * Exercise W1Q3 � 4
  * Class: Restaurant.java
@@ -14,6 +17,8 @@ public class Restaurant {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
+
+
 		Table tables [];
 		int manyTables = 0;
 		int choice;

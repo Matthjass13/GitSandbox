@@ -1,4 +1,4 @@
-package TP09.Solutions.ToolbarColor;
+package TravauxPratiques.TP09.Solutions.ToolbarColor;
 
 import javax.swing.*;
 

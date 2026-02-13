@@ -1,4 +1,4 @@
-package TP04.Solutions.W4Q33;
+package TravauxPratiques.TP04.Solutions.W4Q33;
 
 /**
  * Exercise W3Q3 � 3

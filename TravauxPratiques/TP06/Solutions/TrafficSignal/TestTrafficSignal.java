@@ -1,4 +1,4 @@
-package TP06.Solutions.TrafficSignal;
+package TravauxPratiques.TP06.Solutions.TrafficSignal;
 
 /**
  * TP Week 6

@@ -1,4 +1,4 @@
-package TP03.Solutions.W3Q32;
+package TravauxPratiques.TP03.Solutions.W3Q32;
 
 /**
  * Exercise W3Q3 � 2

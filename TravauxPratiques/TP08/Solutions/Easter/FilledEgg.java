@@ -4,7 +4,7 @@
  * Datum: 05.04.2010
  * Datei: FilledEgg.java
  */
-package TP08.Solutions.Easter;
+package TravauxPratiques.TP08.Solutions.Easter;
 
 import java.util.Random;
 

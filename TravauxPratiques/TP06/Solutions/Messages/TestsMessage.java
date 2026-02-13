@@ -1,4 +1,4 @@
-package TP06.Solutions.Messages;
+package TravauxPratiques.TP06.Solutions.Messages;
 
 /**
  * TP Week 6
